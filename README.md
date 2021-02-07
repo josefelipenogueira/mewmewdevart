@@ -14,3 +14,5 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
  
 **Find Me**
 [Linkedin](https://www.linkedin.com/in/mewmewdevart/) | [Behance](https://www.behance.net/MewmewDevArt) | [Itch.Io](https://mewmewdevart.itch.io/) | [Artstation](https://mewmewdevart.artstation.com/) | [Comissions](https://www.vintepila.com.br/user-profile/NDk0NTkzMjY4OTc=/)
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
