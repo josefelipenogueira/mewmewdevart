@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hey, whatsup? 👋
 
-<!--
-**mewmewdevart/mewmewdevart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Welcome to my Page!**
+My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming 🎮👾.
 
-Here are some ideas to get you started:
+🧠 **Just Keep Swimming** 🐠
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**About Me**
+ - 🤪 I have random knowledge about many things.
+ - 👾 I'm Graduated in Digital Games from [Faculdade Impacta](https://www.impacta.edu.br/graduacoes/jogos-digitais)
+ - 🗣️ I'm trying to overcome my shyness by participating in Game Jams and events.
+ - 🌊 I'm currently developing a Cultural Game called "[Defenda a Festa de Iemanjá](https://linktr.ee/LulaMakeGame)".
+ - 💬 I am very **empathetic** and **creative**, I like to share my crazy things with someone and help them when necessary.
+ 
+**Find Me**
+[Linkedin](https://www.linkedin.com/in/mewmewdevart/) | [Behance](https://www.behance.net/MewmewDevArt) | [Itch.Io](https://mewmewdevart.itch.io/) | [Artstation](https://mewmewdevart.artstation.com/) | [Comissions](https://www.vintepila.com.br/user-profile/NDk0NTkzMjY4OTc=/)
