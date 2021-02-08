@@ -5,7 +5,7 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 
 🧠 **Just Keep Swimming** 🐠
 
- <img align="right" src="https://cdna.artstation.com/p/assets/images/images/034/359/776/large/larissa-mewmew-cristina-83790264-583638372482780-3509739009411659112-n.jpg?1612105738" width="50%" height="auto" />
+ <img align="right" src="https://cdna.artstation.com/p/assets/images/images/033/637/460/large/larissa-mewmew-cristina-monster1.jpg?1610151051" width="50%" height="auto" />
 
 **About Me**
  - 🤪 I have random knowledge about many things.
