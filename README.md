@@ -3,7 +3,7 @@
 **Welcome to my Page!**<br>
 My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming 🎮👾.
 
-<center> 🧠 **Just Keep Swimming** 🐠 </center>
+🧠 **Just Keep Swimming** 🐠 
 
 **About Me**
  - 🤪 I have random knowledge about many things.
