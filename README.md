@@ -1,3 +1,6 @@
+<!-- Hey, I'm happy to hear that you're here. When I created my read.me profile, I used https://stackedit.io/ ,some html skills and Shields.io  !>
+
+
 # Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
