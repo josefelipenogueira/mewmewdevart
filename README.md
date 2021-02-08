@@ -14,7 +14,8 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
  
 **Find Me**
 [
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)]([thing]https://www.linkedin.com/in/mewmewdevart/)	[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=[thing]https://www.instagram.com/mewmewdevart/)]([thing]https://www.instagram.com/mewmewdevart/)
 
-| [Behance](https://www.behance.net/MewmewDevArt) | [Itch.Io](https://mewmewdevart.itch.io/) | [Artstation](https://mewmewdevart.artstation.com/) | [Comissions](https://www.vintepila.com.br/user-profile/NDk0NTkzMjY4OTc=/)
+[![Instagram Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)]([thing]mailto:mewmewdevart@gmail.com)
+
 
