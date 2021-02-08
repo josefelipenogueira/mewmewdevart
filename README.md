@@ -1,4 +1,4 @@
-# Whatsup? 👋
+# Whatsup? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 **Welcome to my Page!**<br>
 My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Brazil and I'm a UX/UI designer and Artist  with a lot of interest in Game Programming 🎮👾.
