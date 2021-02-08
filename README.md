@@ -5,8 +5,6 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 
 🧠 **Just Keep Swimming** 🐠
 
- <img align="right" src="https://cdna.artstation.com/p/assets/images/images/033/637/460/large/larissa-mewmew-cristina-monster1.jpg?1610151051" width="50%" height="auto" />
-
 **About Me**
  - 🤪 I have random knowledge about many things.
  - 👾 I'm Graduated in Digital Games from [Faculdade Impacta](https://www.impacta.edu.br/graduacoes/jogos-digitais)
