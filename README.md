@@ -18,7 +18,7 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-7159c1?style=for-the-badge&logo=linkedin&logoColor=white&link=[thing]https://www.linkedin.com/in/mewmewdevart/)](https://www.linkedin.com/in/mewmewdevart/)	[![Instagram Badge](https://img.shields.io/badge/Instagram-7159c1?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mewmewdevart/)](https://www.instagram.com/mewmewdevart/) [![Instagram Badge](https://img.shields.io/badge/Gmail-7159c1?style=for-the-badge&logo=gmail&logoColor=white&link=[thing]mailto:mewmewdevart@gmail.com)](mailto:mewmewdevart@gmail.com)
 
 # Coding Activity
-<br>
+
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly)
 
 
