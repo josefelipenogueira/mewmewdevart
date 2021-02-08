@@ -22,3 +22,5 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 # Coding Activity
 
 ![Larissa's GitHub stats](https://github-readme-stats.vercel.app/api?username=mewmewdevart&show_icons=true&theme=jolly)
+
+[![Larissa's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mewmewdevart)]
