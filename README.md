@@ -9,7 +9,7 @@ My name is Larissa Cristina (but you can call me Mewmew), I'm from 🇧🇷 Braz
 
 **About Me :**
  - 🤪 I have random knowledge about many things.
- - 👾 I'm Graduated in Digital Games from [Faculdade Impacta](https://www.impacta.edu.br/graduacoes/jogos-digitais)
+ - 👾 I'm passionate about games for that reason, I graduated in Digital Games.
  - 🗣️ I'm trying to overcome my shyness by participating in Game Jams and events.
  - 🌊 I'm currently developing a Cultural Game called "[Defenda a Festa de Iemanjá](https://linktr.ee/LulaMakeGame)".
  - 💬 I am very **empathetic** and **creative**, I like to share my crazy things with someone and help them when necessary.
